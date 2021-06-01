@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://planosdecasa.onrender.com"
-theme = "mundanem"
+baseURL = "https://planosdecasa.vercel.app"
+theme = "three"
 title = "TOP Casa"
 MetaDataFormat = "yaml"
 themesDir = "themes"
@@ -8,7 +8,7 @@ enableRobotsTXT = true
 summaryLength = 20
 rssLimit = 30
 buildFuture = true
-copyright = "Copyright 2021 [planosdecasa.onrender.com](https://planosdecasa.onrender.com)"
+copyright = "Copyright 2021 [planosdecasa.vercel.app](https://planosdecasa.vercel.app)"
 
 # uglyurls = true
 # paginate = 6

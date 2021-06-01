@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://planosdecasa.onrender.com/sitemap.xml
+Sitemap: https://planosdecasa.vercel.app/sitemap.xml
